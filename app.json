@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.luiz_fernando.snackd4040db666d24bbc8d760af9a504e150"
     },
     "web": {
       "favicon": "./assets/favicon.png"
